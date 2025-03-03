@@ -1,0 +1,9 @@
+# 仮想環境を除外
+venv/
+
+# データベースファイルを除外
+scores.db
+
+# Pythonキャッシュを除外
+__pycache__/
+*.pyc
